@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    line-height: 1.5;
+}   
