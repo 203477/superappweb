@@ -1,17 +1,23 @@
 body {
-    background-color: blueviolet;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(146, 178, 232);
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 20px;
 }
 
 h1 {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 p {
-    color: white;
+    color: rgb(41, 30, 159);
     font-size: 18px;
     line-height: 1.5;
 }   
+
+li {
+    color: rgb(41, 59, 177);
+    font-size: 18px;
+    line-height: 1.5;
+}
